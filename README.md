@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angshuman22220009
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java and c++  
+- 🌱 I’m currently learning java , c ,  c++ , python 
 - 💞️ nothing for now 
 - 📫  insta id - https://www.instagram.com/bullet99_ofc/
 
